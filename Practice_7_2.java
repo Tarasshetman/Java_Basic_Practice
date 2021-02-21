@@ -20,7 +20,7 @@ public class task72 {
             sum = sum + arrayInt[j];
             //System.out.print(arrayInt[j] + " ");
         }
-        System.out.println(". Summ of array = " + sum);
+        System.out.println(". Summ of odd numbers in array = " + sum);
         return arrayInt;
     }
 }
